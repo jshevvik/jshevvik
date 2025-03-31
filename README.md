@@ -16,6 +16,9 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en España, c
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram-Bots-blue?style=for-the-badge&logo=telegram)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![ERP Odoo](https://img.shields.io/badge/Odoo-512DA8?style=for-the-badge&logo=odoo&logoColor=white)
 
 ## 📌 Proyectos Destacados
 🔹 [**Bot de Telegram para pisos en Idealista/Pisos.com/Milanuncios**](#) → En desarrollo, scrapea anuncios y los publica en un grupo.
