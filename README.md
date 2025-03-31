@@ -11,6 +11,7 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en España, c
 - 🎯 Buscando mejorar mi productividad y evitar la procrastinación
 
 ## 🛠️ Tecnologías y Herramientas
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -19,6 +20,9 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en España, c
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![ERP Odoo](https://img.shields.io/badge/Odoo-512DA8?style=for-the-badge&logo=odoo&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ## 📌 Proyectos Destacados
 🔹 [**Bot de Telegram para pisos en Idealista/Pisos.com/Milanuncios**](#) → En desarrollo, scrapea anuncios y los publica en un grupo.
