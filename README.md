@@ -29,7 +29,7 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en España, c
 
 <!--🔹 [**Mi primera app Android**](#) → Proyecto en Java para gestionar tareas diarias. -->
 
-🔹 [**Calculadora de interés compuesto**](#) → Herramienta para visualizar crecimiento del dinero a lo largo del tiempo.
+🔹 [**Calculadora de interés compuesto**](https://github.com/jshevvik/calculadora-intereses) → Herramienta para visualizar crecimiento del dinero a lo largo del tiempo.
 
 ## 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shevchenkoiuliia/)  
