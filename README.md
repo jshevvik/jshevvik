@@ -39,7 +39,11 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en España, c
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
+## GitHub Stats:
+
 ![jshevvik's Stats](https://github-readme-stats.vercel.app/api?username=jshevvik&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+![jshevvik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jshevvik&theme=cobalt&hide_border=false)
+![jshevvik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jshevvik&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 📌 Proyectos Destacados
