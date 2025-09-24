@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Julia.  
 
-## 🚀 Desarrollador de Aplicaciones Multiplataforma (DAM) 
+## 🚀 Desarrolladora de Aplicaciones Multiplataforma (DAM)/ Desarrolladora Fullstack 
 
 Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en España, con interés en mejorar mis habilidades en programación y desarrollo de software. Me esfuerzo cada día por aprender más sobre algoritmos, estructuras de datos y buenas prácticas en desarrollo.
 
@@ -38,6 +38,8 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en España, c
 ![ERP Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+
+![jshevvik's Stats](https://github-readme-stats.vercel.app/api?username=jshevvik&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 
 
 ## 📌 Proyectos Destacados
