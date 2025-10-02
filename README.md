@@ -80,7 +80,7 @@ App de escritorio para visualizar el crecimiento del dinero con aportaciones per
 
 ---
 
-### 🔹 Landing Page ACME (demo)  
+<!--### 🔹 Landing Page ACME (demo)  
 🔗 **Demo:** próximamente en [GitHub Pages](https://jshevvik.github.io/landing-acme/)  
 🔗 **Código:** https://github.com/jshevvik/landing-acme  
 
@@ -90,7 +90,7 @@ App de escritorio para visualizar el crecimiento del dinero con aportaciones per
 Aplicación de ejemplo en **PHP + JavaScript** para registrar entradas/salidas y ver reportes.  
 🔗 **Código:** https://github.com/jshevvik/fichajes-demo  
 
----
+--- -->
 
 ## 📫 Conéctate conmigo  
 
