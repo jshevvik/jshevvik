@@ -1,101 +1,85 @@
-# 👋 ¡Hola! Soy Julia  
+<div align="center">
 
-## 🚀 Desarrolladora Full-Stack junior · Técnico Superior en DAM  
+# Hi, I'm Julia 👋
 
-Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-Durante mis prácticas trabajé creando **aplicaciones web con PHP y JavaScript** y personalizando **tiendas en PrestaShop**.  
+### Junior Frontend Developer with a Full-stack background
 
-Sigo aprendiendo cada día y disfruto poniendo en práctica nuevas tecnologías en proyectos reales.
+*Building clear, responsive and user-friendly web experiences.*
 
----
+📍 Spain &nbsp;·&nbsp; 💼 Open to Junior Frontend and frontend-oriented Full-stack opportunities
 
-### 🔧 Tecnologías y herramientas
-
-#### 💻 Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### 🖼️ Frameworks y Librerías
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OracleDB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 📱 Desarrollo móvil
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### 🛒 E-commerce / ERP
-![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-
-#### ✅ Testing y CI/CD
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-007396?style=for-the-badge&logo=java&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-#### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-
+</div>
 
 ---
 
-### 📊 GitHub Stats  
+## About me
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshevvik&show_icons=true&theme=cobalt)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshevvik&layout=compact&theme=cobalt)  
+I'm a Software Development graduate who especially enjoys turning ideas into polished and intuitive interfaces.
+
+My full-stack background helps me understand the complete application lifecycle—from the user experience and API integration to backend services, databases and testing.
+
+- 🎨 Interested in responsive, accessible and maintainable interfaces
+- 🔗 Comfortable connecting frontend applications to REST APIs
+- 🧩 Able to work across frontend, backend and databases
+- 🌱 Currently building new portfolio projects based on real-world use cases
+
+## Tech stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | HTML, CSS, JavaScript, Bootstrap |
+| **Backend** | Java, Spring Boot, PHP, REST APIs |
+| **Databases** | MySQL, SQLite, Oracle |
+| **Quality** | JUnit, Mockito, JaCoCo, GitHub Actions |
+| **Tools** | Git, GitHub, Maven, Postman |
+
+## Selected projects
+
+### 🔐 [User Registration Service](https://github.com/jshevvik/user-registration-service)
+
+A Java 17 registration service featuring input validation, password hashing, welcome emails, automated tests, code coverage and continuous integration with GitHub Actions.
+
+`Java` `JUnit` `Mockito` `JaCoCo` `GitHub Actions`
+
+### 🍽️ [Cari — ¿Qué quieres comer hoy?](https://github.com/jshevvik/Cari-que-quieres-comer-hoy)
+
+A team application developed as the final project of the DAM program.
+
+`Java` `Team project`
+
+### 📈 [Compound Interest Calculator](https://github.com/jshevvik/calculadora-intereses)
+
+A Java desktop application for visualizing investment growth with recurring contributions.
+
+`Java` `Desktop UI`
+
+## Currently working on
+
+### 💼 Job Application Tracker
+
+A new full-stack portfolio project focused on a polished interface, practical workflows and API integration.
+
+Planned features include application tracking, status management, filters, responsive design and a REST API.
 
 ---
 
-## 📌 Proyectos destacados
+<div align="center">
 
-### 🔹 [User Registration Service (Java 17)](https://github.com/jshevvik/user-registration-service)  
-![CI](https://github.com/jshevvik/user-registration-service/actions/workflows/ci.yml/badge.svg)  
-Mini-servicio con validación, hash de contraseñas y email de bienvenida.  
-Tests con **JUnit 5 + Mockito** · Cobertura con **JaCoCo** · CI con **GitHub Actions**  
+### Let's connect
 
----
+Open to collaboration, learning opportunities and Junior Developer roles.
 
-### 🔹 [Calculadora de Interés Compuesto](https://github.com/jshevvik/calculadora-intereses)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-App de escritorio para visualizar el crecimiento del dinero con aportaciones periódicas.  
-
----
-
-<!--### 🔹 Landing Page ACME (demo)  
-🔗 **Demo:** próximamente en [GitHub Pages](https://jshevvik.github.io/landing-acme/)  
-🔗 **Código:** https://github.com/jshevvik/landing-acme  
-
----
-
-### 🔹 App de Fichajes (demo)  
-Aplicación de ejemplo en **PHP + JavaScript** para registrar entradas/salidas y ver reportes.  
-🔗 **Código:** https://github.com/jshevvik/fichajes-demo  
-
---- -->
-
-## 📫 Conéctate conmigo  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shevchenkoiuliia/)  
-
----
-
-💡 *Siempre aprendiendo y abierta a colaborar en nuevos proyectos.* 🚀
+</div>
